@@ -23,10 +23,10 @@ Aplicação web desenvolvida com **React + TypeScript + Vite** que permite busca
    git clone https://github.com/Raffael-Wagner/GitHub-Finder.git
    cd GitHub-Finder
    
-2.Instale as dependências:
+2. Instale as dependências:
    ```bash
    npm install
 
-3.Rode o projeto:
+3. Rode o projeto:
    ```bash
    npm run dev
