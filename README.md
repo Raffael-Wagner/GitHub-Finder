@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# GitHub-Finder
+Aplicação web que permite buscar por usuários do GitHub e visualizar informações
+>>>>>>> c7d7c588fc2bd06404b334d3b2d89f1bf683f4f6
